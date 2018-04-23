@@ -19,3 +19,5 @@ Como as análises propostas na tarefa original são em sua maioria sobre resulta
 ## Dependências
 
 R, com os pacotes `tidyverse`, `lubridate` e `here`.
+
+Diretório de Gleyser
