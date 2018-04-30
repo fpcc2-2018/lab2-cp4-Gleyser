@@ -20,4 +20,4 @@ Como as análises propostas na tarefa original são em sua maioria sobre resulta
 
 R, com os pacotes `tidyverse`, `lubridate` e `here`.
 
-Diretório de Gleyser
+Diretório de Gleyser. Testando commit. 
